@@ -47,15 +47,10 @@ PC-Detox is different:
 
 ## Features
 
-- **Full System Scan** — OS info, CPU, RAM, disk in one view
-- **Quick Cleanup** — temp files, cache, reclaimable space
-- **Bloatware Detector** — Samsung, Dell, HP, Lenovo crapware + Korean banking security software
-- **Startup Manager** — see and disable startup items slowing your boot
-- **Disk Analyzer** — find large folders and dev caches (node_modules, etc.)
-- **Process Monitor** — top 15 memory hogs with category summary
-- **Scheduled Tasks** — review and disable unnecessary scheduled tasks
-- **Registry Cleanup** — orphaned registry entries from uninstalled apps
-- **Security Check** — Windows Defender and firewall status
+- **PC Detox Scan** — Find & remove bloatware (Samsung, Dell, HP, Lenovo + Korean banking security)
+- **Startup Manager** — See and disable startup items slowing your boot
+- **Process Monitor** — Top memory hogs with category summary
+- **One-Click Cleanup** — Temp files, cache, registry junk — all at once
 
 ## Usage
 

@@ -35,15 +35,10 @@ No install. No signup. No BS. Just run it.
 
 | # | Feature | What it does |
 |---|---------|-------------|
-| 1 | **Full Scan** | Complete PC health check in 30 seconds |
-| 2 | **Quick Cleanup** | Temp files, browser cache, DNS cache |
-| 3 | **Bloatware Detector** | Samsung, Dell, HP crapware — gone |
-| 4 | **Startup Manager** | Cut boot time in half |
-| 5 | **Disk Analyzer** | Find the 10GB node_modules you forgot |
-| 6 | **Process Monitor** | What's eating your RAM right now |
-| 7 | **Task Scheduler** | Stop hidden background tasks |
-| 8 | **Registry Cleanup** | Remove ghosts of uninstalled apps |
-| 9 | **Security Check** | Is Windows Defender actually on? |
+| 1 | **PC Detox Scan** | Find & remove apps you don't need |
+| 2 | **Startup Manager** | Speed up boot time |
+| 3 | **Process Monitor** | See what's running right now |
+| 4 | **One-Click Cleanup** | Junk, cache, registry — all at once |
 
 ## Safety First
 
@@ -70,16 +65,11 @@ PC-Detox will **never** do anything without asking you first.
 
   What would you like to do?
 
-   1. Full System Scan       — Analyze everything at once
-   2. Quick Cleanup          — Temp files, cache, trash
-   3. Bloatware Detector     — Find & remove unnecessary apps
-   4. Startup Manager        — Speed up boot time
-   5. Disk Space Analyzer    — Find what's eating your storage
-   6. Process Monitor        — See what's running right now
-   7. Scheduled Tasks        — Review automated tasks
-   8. Registry Cleanup       — Remove leftover registry entries
-   9. Security Check         — Windows Defender status & scan
-   0. Exit
+   1. 🧹 PC Detox Scan       — Find & remove apps you don't need
+   2. 🚀 Startup Manager     — Speed up boot time
+   3. ⚙️  Process Monitor     — See what's running right now
+   4. ⚡ One-Click Cleanup    — Junk, cache, registry — all at once
+   0. ❌ Exit
 ```
 
 ## Multilingual
@@ -110,15 +100,10 @@ PC-Detox가 다 정리해드립니다.
 
 | # | 기능 | 설명 |
 |---|------|------|
-| 1 | **전체 스캔** | 30초 만에 PC 건강 체크 |
-| 2 | **빠른 정리** | 임시 파일, 캐시, 휴지통 정리 |
-| 3 | **불필요 앱 탐지** | 삼성, Dell, HP 기본 앱 제거 |
-| 4 | **시작프로그램 관리** | 부팅 시간 절반으로 |
-| 5 | **디스크 분석** | 용량 잡아먹는 폴더 찾기 |
-| 6 | **프로세스 모니터** | 지금 뭐가 RAM을 먹고 있나 |
-| 7 | **예약 작업** | 숨어있는 백그라운드 작업 관리 |
-| 8 | **레지스트리 정리** | 삭제된 프로그램의 찌꺼기 제거 |
-| 9 | **보안 점검** | Windows Defender 상태 확인 |
+| 1 | **PC 디톡스 스캔** | 필요 없는 앱 찾아서 제거 |
+| 2 | **시작프로그램 관리** | 부팅 속도 향상 |
+| 3 | **프로세스 모니터** | 현재 실행 중인 프로그램 |
+| 4 | **원클릭 정리** | 정크, 캐시, 레지스트리 한번에 |
 
 ### 안전합니다
 
